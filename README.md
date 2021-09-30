@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @millipede-cpu
+- 👋 Hi, I’m Milly Palmer aka @millipede-cpu
 - 👀 I’m interested in art :artist: music :woman_singer: baking  :bowl_with_spoon:  and coding :woman_technologist:
 - 🌱 I’m currently learning ... coding with @FAC :woman_student:
 - 💞️ I’m looking to collaborate on ... Javascript projects :computer:
