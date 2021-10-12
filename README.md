@@ -2,7 +2,7 @@
 - 👀 I’m interested in art :artist: music :woman_singer: baking  :bowl_with_spoon:  and coding :woman_technologist:
 - 🌱 I’m currently learning ... coding with @FAC :woman_student:
 - 💞️ I’m looking to collaborate on ... Javascript projects :computer:
-- 📫 How to reach me ... [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or [:email:palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
+- 📫 How to reach me ... [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
 
 <!---
 millipede-cpu/millipede-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
