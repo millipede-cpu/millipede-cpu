@@ -3,7 +3,7 @@
 ![pastel](https://user-images.githubusercontent.com/62570785/146103687-8469ed0c-b49a-4f71-9c6c-f2f181bb2495.jpg)
 
 - I’m a Freelance Illustrator :artist: 🎨 🖌️ that discovered 🤓 web development last year and I'm now an aspiring Software Developer 💻 :woman_technologist:
-- I’m currently learning software development with @FAC as a part of the @fac23 cohort :woman_student:
+- I’m currently learning software development with Founders & Coders as a part of the @fac23 cohort :woman_student:
 - I’m looking to collaborate on 🧐 Front End Development projects :computer:
 - These are the current languages I'm coding with 👇 👇 👇 👇
 
