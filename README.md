@@ -19,7 +19,7 @@
 
 ![pacman](https://user-images.githubusercontent.com/62570785/148466325-55e20965-e926-48ea-9f77-36b42d1f4c9c.jpg)
 
-### Check out the [Tetris game](https://github.com/millipede-cpu/tetris) that I've recently been working on, I've been having fun with sound effects 🔊  ###
+### Check out the [Tetris game](https://millipede-cpu.github.io/tetris/) that I've recently been working on, I've been having fun with sound effects 🔊  ###
 
 ### My dream job would be a video game developer 🤩 ###
 <!---
