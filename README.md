@@ -9,7 +9,8 @@
 - 📫 Find me on [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or email me at [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
 - These are the current languages I'm coding with 👇 👇 👇 👇
 
-![codelogo](https://user-images.githubusercontent.com/62570785/146104735-8cac5eaa-4096-4b52-aabc-2b21ed7114c3.png)
+![programming](https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png)
+
 
 
 # I love games 🤹 I grew up playing classic arcade games like Tetris and Pacman
