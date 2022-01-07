@@ -3,11 +3,11 @@
 
 ![pastel](https://user-images.githubusercontent.com/62570785/146103687-8469ed0c-b49a-4f71-9c6c-f2f181bb2495.jpg)
 
-- I’m a Freelance Illustrator :artist: 🎨 🖌️ that discovered 🤓 web development last year and I'm now an aspiring Software Developer 💻 :woman_technologist:
-- I’m currently learning software development with [Founders and Coders](https://www.foundersandcoders.com/) as a part of the @fac23 cohort :woman_student:
-- I’m looking to collaborate on 🧐 Front End Development projects :computer:
-- 📫 Find me on [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or email me at [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
-- These are the current languages I'm coding with 👇 👇 👇 👇
+## I’m a Freelance Illustrator :artist: 🎨 🖌️ that discovered 🤓 web development last year and I'm now an aspiring Software Developer 💻 :woman_technologist:
+## I’m currently learning software development with [Founders and Coders](https://www.foundersandcoders.com/) as a part of the @fac23 cohort :woman_student:
+## I’m looking to collaborate on 🧐 Front End Development projects :computer:
+## 📫 Find me on [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or email me at [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
+## These are the current languages I'm coding with 👇 👇 👇 👇
 
 ![programming](https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png)
 
