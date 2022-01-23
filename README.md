@@ -5,13 +5,18 @@
 
 ## I’m a Freelance Illustrator :artist: 🎨 🖌️ that discovered 🤓 web development last year and I'm now an aspiring Software Developer 💻 :woman_technologist:
 ## I’m currently learning software development with [Founders and Coders](https://www.foundersandcoders.com/) as a part of the FAC 23 cohort :woman_student:
-## I’m looking to collaborate on 🧐 Front End Development projects :computer:
+## I’m looking to collaborate on 🧐 Front End and Back End Development projects :computer:
 ## 📫 Find me on [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or email me at [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
-## These are the current languages I'm coding with 👇 👇 👇 👇
+## These are the Front End Development languages I'm programming with 👇 👇 👇 👇
 
 ![programming](https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png)
 
+## I'm currently learning Back End Development to deploy apps on [Heroku](https://www.heroku.com) with 👇 👇 👇 👇 
 
+![nodejs-logo](https://user-images.githubusercontent.com/62570785/150702264-a286e7ae-167b-4a57-82cb-f21b3cc2f4d1.png)
+
+
+![kisspng-postgresql-amazon-relational-database-service-micr-sisense-5b27357116c531 7956350915292962410933](https://user-images.githubusercontent.com/62570785/150702030-0526f0b6-7464-4e88-a65d-88b438c83b66.png)
 
 # I love games 🤹 I grew up playing classic arcade games like Tetris and Pacman
 
