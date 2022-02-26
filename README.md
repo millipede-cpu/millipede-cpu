@@ -17,9 +17,9 @@
   
   <div align="center">
   
-  | HTML CSS JS | 
-  | :------: |
-  | <img src="https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png" alt="HTML CSS JS" width="200" height="85"> | 
+  | HTML CSS JS |
+  | :------: | 
+  | <img src="https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png" alt="HTML CSS JS" width="200" height="85"> |
   | PostgreSQL |
   | <img src="https://user-images.githubusercontent.com/62570785/150702030-0526f0b6-7464-4e88-a65d-88b438c83b66.png" alt="PostgreSQL" width="200" height="85"> |
   
