@@ -1,4 +1,4 @@
-  <div align="center" color="blue">
+  <div align="center">
   
 # Hello world ✨ I'm Milly (she/her) 👋 :point_down:
 
@@ -19,7 +19,9 @@
   
   | HTML CSS JS |
   | :------: | 
-  | <img src="https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png" alt="HTML CSS JS" width="200" height="85"> |
+  | <img src="https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png" alt="HTML CSS JS" width="250" height="100"> |
+  | Typescript |
+  | <img src="https://user-images.githubusercontent.com/62570785/155903643-3364dfaf-da5d-4bc1-8f42-efa2d903999e.png" alt="Typescript" width="100" height="100"> |
   | PostgreSQL |
   | <img src="https://user-images.githubusercontent.com/62570785/150702030-0526f0b6-7464-4e88-a65d-88b438c83b66.png" alt="PostgreSQL" width="200" height="85"> |
   
