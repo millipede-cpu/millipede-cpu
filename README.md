@@ -8,8 +8,8 @@
   
 </div>
 
-## I’m a Freelance Illustrator :artist: 🎨 🖌️ that discovered 🤓 web development last year and I'm now an aspiring Software Developer 💻 :woman_technologist:
-## I’m currently learning software development with [Founders and Coders](https://www.foundersandcoders.com/) as a part of the FAC23 cohort :woman_student:
+## I’m a Freelance Illustrator :artist: 🎨 🖌️ that discovered 🤓 software development last year and I'm now a Junior Software Engineer 💻 :woman_technologist:
+## In April 2022, I completed a software development coding bootcamp with [Founders and Coders](https://www.foundersandcoders.com/) as a part of the FAC23 cohort :woman_student:
 ## 📫 Find me on [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or email me at [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
 
 
