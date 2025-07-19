@@ -1,43 +1,24 @@
   <div align="center">
 
-## I’m a Freelance Illustrator :artist: 🎨 🖌️ and 🤓 Software Engineer 💻 :woman_technologist:
-## In April 2022, I completed a software development coding bootcamp with [Founders and Coders](https://www.foundersandcoders.com/) as a part of the FAC23 cohort :woman_student:
-## 📫 Find me on [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) or email me at [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
+## 💻 :woman_technologist: Software Engineer and Illustrator 👩‍🎨 
+## [Founders and Coders](https://www.foundersandcoders.com/) FAC23 Cohort :woman_student:
+## 📫 [LinkedIn](https://linkedin.com/in/milly-palmer-144b89115/) [:email:    palmermilly9@gmail.com](mailto:palmermilly9@gmail.com)
 
 
-  # Languages and Databases 👇 👇
+  # Tech Stack 🤖
   
   <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/62570785/148469032-4c422f0c-1e85-4bcf-97db-75fa67003cb3.png" alt="HTML CSS JS" width="250" height="100">
-  <img src="https://user-images.githubusercontent.com/62570785/155903643-3364dfaf-da5d-4bc1-8f42-efa2d903999e.png" alt="Typescript" width="100" height="100">
-  <img src="https://user-images.githubusercontent.com/62570785/150702030-0526f0b6-7464-4e88-a65d-88b438c83b66.png" alt="PostgreSQL" width="200" height="85">
-  
- </div>
-
-# Libraries and Frameworks 👇 👇
-
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/62570785/155860891-f44b125d-7b17-440e-b570-db20f21baaaa.png" alt="React" width="100" height="100">
-  <img src="https://user-images.githubusercontent.com/62570785/155861987-2e239ec0-b4cb-43e8-82d2-c96ca9504f16.png" alt="Express" width="100" height="100">
-  <img src="https://user-images.githubusercontent.com/62570785/155861991-59824c44-8cc4-4cc4-856c-d949d5102002.png" alt="Next.js" width="100" height="100">
-  
-</div>
-
-
-
-## I love games 🤹 I grew up playing classic arcade games like Tetris and Pacman
-
-<div align="center">
-
- ![giphy-1](https://user-images.githubusercontent.com/62570785/148467106-0600a92a-9f5e-4ce8-88c1-2f0bcf6ea568.gif) &nbsp; 
- ![pacman](https://user-images.githubusercontent.com/62570785/148466325-55e20965-e926-48ea-9f77-36b42d1f4c9c.jpg) 
-  
-</div>
-
-### Check out the [Tetris game](https://millipede-cpu.github.io/tetris/) that I worked, listen out for sound effects 🔊  ###
+  <img width="75" height="75" alt="React" src="https://github.com/user-attachments/assets/3506f85d-633c-448d-8a78-223273ab67b3" />
+  <img width="75" height="75" alt="TS" src="https://github.com/user-attachments/assets/0ad1093c-fd99-4a15-9bd4-cd64f6a70772"/>
+  <img  width="75" height="75" alt="Playwright" src="https://github.com/user-attachments/assets/f01f8b48-78bb-48d9-9778-062dab55668b"/>
+  <img width="75" height="75" alt="Storybook" src="https://github.com/user-attachments/assets/f15739c1-1cdf-41a2-98de-d43f33e27656" />
+  <img width="75" height="75" alt="Figma" src="https://github.com/user-attachments/assets/c8ccc4aa-392d-4aae-9f02-04b1f6858a6f" />
+  <img width="75" height="75" alt="Docker" src="https://github.com/user-attachments/assets/49a2332c-3751-4bde-a2cc-70d88552c927" />
+  <img width="75" height="75" alt="Kubernetes" src="https://github.com/user-attachments/assets/d1b5f9a2-92bc-47cf-ae3e-d164c35a139d" />
+  <img width="75" height="75" alt="Node JS" src="https://github.com/user-attachments/assets/0084eb3b-92e3-4e6e-aa58-2984e9eab6f1" />
+  <img width="75" height="75" alt="GHA" src="https://github.com/user-attachments/assets/a9eef6a5-64c0-4da3-96af-4e3d98aafe9c" />
+  <img width="75" height="75" alt="Vite" src="https://github.com/user-attachments/assets/db0d8e70-705a-44d4-bd54-a35efc88a1ac" />
 
   </div>
 <!---
