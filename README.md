@@ -10,11 +10,13 @@
   <p align="center">
   <img width="75" height="75" alt="React" src="https://github.com/user-attachments/assets/3506f85d-633c-448d-8a78-223273ab67b3" />
   <img width="75" height="75" alt="TS" src="https://github.com/user-attachments/assets/0ad1093c-fd99-4a15-9bd4-cd64f6a70772"/>
+  <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/69900d6f-b084-4b3f-ac5c-5034dcd7a8ef" />
   <img  width="75" height="75" alt="Playwright" src="https://github.com/user-attachments/assets/f01f8b48-78bb-48d9-9778-062dab55668b"/>
   </p>
   <p align="center">
   <img width="75" height="75" alt="Storybook" src="https://github.com/user-attachments/assets/f15739c1-1cdf-41a2-98de-d43f33e27656" />
   <img width="75" height="75" alt="Figma" src="https://github.com/user-attachments/assets/c8ccc4aa-392d-4aae-9f02-04b1f6858a6f" />
+  <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/23fd40a3-d95b-4eca-bc7d-04e9d3a2a203" />
   <img width="75" height="75" alt="Docker" src="https://github.com/user-attachments/assets/49a2332c-3751-4bde-a2cc-70d88552c927" />
   </p>
   <p align="center">
