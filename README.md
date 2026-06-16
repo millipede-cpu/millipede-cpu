@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hey, I'm Milly 👋🏻
-## 💻 :woman_technologist: Software Engineer and Illustrator 👩‍🎨 
+## 💻 :woman_technologist: Software Engineer
 ## [Founders and Coders](https://www.foundersandcoders.com/) FAC23 Cohort :woman_student:
 ## Connect with me on [<img width="40" height="40" alt="LinkedIn" src="https://github.com/user-attachments/assets/7964c411-b943-48f3-99eb-c895d1cdb9dc" /> ](https://linkedin.com/in/milly-palmer-144b89115/) or [📬](mailto:palmermilly9@gmail.com)
 
